@@ -1,8 +1,20 @@
-# React + Vite
+# Ecommerce (Prueba Técnica/Technical Test)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link prueba técnica: https://github.com/midudev/aprendiendo-react/blob/master/projects/06-shopping-cart/README.md
 
-Currently, two official plugins are available:
+Funcionalidades:
+- Fetching de Datos
+- useState
+- useEffect
+- useContext
+- Guardado en local storage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technical Test Link: https://github.com/midudev/aprendiendo-react/blob/master/projects/06-shopping-cart/README.md
+
+Features:
+
+- Data Fetching
+- useState
+- useEffect
+- useContext
+- Local Storage Saving
